@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        for(auto i : matrix){
-            for(auto j:i){
-                if(j==target){
-                    return true;
-
-                }
-            }
+        int n=matrix.size();
+        int m=matrix[0].size();
+        int s=0;
+        int e=(n*m)-1; //pura size
+        while(s<=e){
+            int mid=s+(e-s)/2;
+            int row=mid/m,col=mid%m;
+            if(matrix[row][col]==target)return true;
+            if(matrix[row][col]<target)s=mid+1;
+            else e=mid-1;
         }
         return false;
     }
