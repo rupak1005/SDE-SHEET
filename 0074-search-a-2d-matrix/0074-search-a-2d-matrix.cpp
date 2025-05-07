@@ -7,7 +7,7 @@ public:
         int e=(n*m)-1; //pura size
         while(s<=e){
             int mid=s+(e-s)/2;
-            int row=mid/m,col=mid%m;
+            int row=mid/m,col=mid%m;//to find row and col
             if(matrix[row][col]==target)return true;
             if(matrix[row][col]<target)s=mid+1;
             else e=mid-1;
