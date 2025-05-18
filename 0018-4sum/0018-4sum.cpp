@@ -29,7 +29,6 @@ public:
                         l--;
                     }
                 }
-
             }
         }
         return ans;
