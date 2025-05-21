@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rupak1005/SDE-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rupak1005/SDE-SHEET/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0493-reverse-pairs) |
+| [0890-lemonade-change](https://github.com/rupak1005/SDE-SHEET/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rupak1005/SDE-SHEET/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/rupak1005/SDE-SHEET/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
