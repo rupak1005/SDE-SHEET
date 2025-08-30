@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0493-reverse-pairs) |
 | [0890-lemonade-change](https://github.com/rupak1005/SDE-SHEET/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2058-concatenation-of-array](https://github.com/rupak1005/SDE-SHEET/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rupak1005/SDE-SHEET/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/rupak1005/SDE-SHEET/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
