@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rupak1005/SDE-SHEET/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/rupak1005/SDE-SHEET/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/rupak1005/SDE-SHEET/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rupak1005/SDE-SHEET/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rupak1005/SDE-SHEET/tree/master/0048-rotate-image) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rupak1005/SDE-SHEET/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupak1005/SDE-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/rupak1005/SDE-SHEET/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/rupak1005/SDE-SHEET/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rupak1005/SDE-SHEET/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
