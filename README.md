@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rupak1005/SDE-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/rupak1005/SDE-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rupak1005/SDE-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/rupak1005/SDE-SHEET/tree/master/0435-non-overlapping-intervals) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rupak1005/SDE-SHEET/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
