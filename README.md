@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rupak1005/SDE-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rupak1005/SDE-SHEET/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/rupak1005/SDE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/rupak1005/SDE-SHEET/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/rupak1005/SDE-SHEET/tree/master/0890-lemonade-change) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/rupak1005/SDE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupak1005/SDE-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/rupak1005/SDE-SHEET/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
@@ -358,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rupak1005/SDE-SHEET/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rupak1005/SDE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
