@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rupak1005/SDE-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupak1005/SDE-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/rupak1005/SDE-SHEET/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rupak1005/SDE-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/rupak1005/SDE-SHEET/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupak1005/SDE-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/rupak1005/SDE-SHEET/tree/master/0908-middle-of-the-linked-list) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rupak1005/SDE-SHEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/rupak1005/SDE-SHEET/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupak1005/SDE-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
