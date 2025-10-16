@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rupak1005/SDE-SHEET/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rupak1005/SDE-SHEET/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/rupak1005/SDE-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0680-valid-palindrome-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/rupak1005/SDE-SHEET/tree/master/2058-concatenation-of-array) |
 ## Hash Function
 |  |
