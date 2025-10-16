@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/rupak1005/SDE-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rupak1005/SDE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupak1005/SDE-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rupak1005/SDE-SHEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rupak1005/SDE-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/rupak1005/SDE-SHEET/tree/master/1894-merge-strings-alternately) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupak1005/SDE-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/rupak1005/SDE-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
