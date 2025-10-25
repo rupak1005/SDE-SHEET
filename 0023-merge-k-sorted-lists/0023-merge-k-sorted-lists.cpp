@@ -10,34 +10,17 @@
  */
 class Solution {
 public:
- struct compare {
-        bool operator()(ListNode* a, ListNode* b) {
-            return a->val > b->val; // min-heap based on node value
-        }
-    };
-    
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
-        
-        // Step 1: Push first node of each list
-        for (auto list : lists) {
-            if (list) pq.push(list);
-        }
-
-        // Dummy head for merged list
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
-        
-        // Step 2: Merge process
-        while (!pq.empty()) {
-            ListNode* node = pq.top(); pq.pop();
-            tail->next = node;
-            tail = tail->next;
-            
-            if (node->next)
-                pq.push(node->next);
-        }
-        
-        return dummy->next;
+         vector<int> vals;
+    for(auto l : lists){
+        while(l){ vals.push_back(l->val); l = l->next; }
+    }
+    sort(vals.begin(), vals.end());
+    ListNode dummy(0), *curr = &dummy;
+    for(int v : vals){
+        curr->next = new ListNode(v);
+        curr = curr->next;
+    }
+    return dummy.next;
     }
 };
