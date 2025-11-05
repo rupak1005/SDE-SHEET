@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rupak1005/SDE-SHEET/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rupak1005/SDE-SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/rupak1005/SDE-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rupak1005/SDE-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rupak1005/SDE-SHEET/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rupak1005/SDE-SHEET/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rupak1005/SDE-SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/rupak1005/SDE-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rupak1005/SDE-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/rupak1005/SDE-SHEET/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
 ## Iterator
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rupak1005/SDE-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rupak1005/SDE-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/rupak1005/SDE-SHEET/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
