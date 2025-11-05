@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rupak1005/SDE-SHEET/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/rupak1005/SDE-SHEET/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rupak1005/SDE-SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/rupak1005/SDE-SHEET/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rupak1005/SDE-SHEET/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rupak1005/SDE-SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0816-design-hashset](https://github.com/rupak1005/SDE-SHEET/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
