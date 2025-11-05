@@ -6,10 +6,9 @@ public:
             if(i=='('|| i=='{' || i=='[')st.push(i);
             else{
                 if(st.empty())return false;
-                else if(i==')' && st.top()!='(')return false;
-                else if(i==']' && st.top()!='[')return false;
-                else if(i=='}' && st.top()!='{')return false;
-                st.pop();
+                if(st.top()=='(' && i==')' || st.top()=='{' && i=='}' ||st.top()=='[' && i==']')st.pop();else{
+                    return false;
+                }
             }
 
             
