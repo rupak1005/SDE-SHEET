@@ -4,9 +4,10 @@ public:
 
     void dfs(int idx,vector<vector<int>> &adj,vector<int> &visit){
         visit[idx]=1;
-        for(int i=0;i<adj[idx].size();i++){
-            if(!visit[adj[idx][i]]){
-                dfs(adj[idx][i],adj,visit);
+        
+        for(auto it:adj[idx]){
+            if(!visit[it]){
+                dfs(it,adj,visit);
             }
         }
 
