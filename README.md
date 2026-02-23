@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/rupak1005/SDE-SHEET/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2058-concatenation-of-array](https://github.com/rupak1005/SDE-SHEET/tree/master/2058-concatenation-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/rupak1005/SDE-SHEET/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rupak1005/SDE-SHEET/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rupak1005/SDE-SHEET/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
+| [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
