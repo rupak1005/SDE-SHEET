@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rupak1005/SDE-SHEET/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rupak1005/SDE-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupak1005/SDE-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rupak1005/SDE-SHEET/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rupak1005/SDE-SHEET/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
@@ -480,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0047-permutations-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
