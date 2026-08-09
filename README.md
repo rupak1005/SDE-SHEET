@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rupak1005/SDE-SHEET/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rupak1005/SDE-SHEET/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rupak1005/SDE-SHEET/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rupak1005/SDE-SHEET/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rupak1005/SDE-SHEET/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rupak1005/SDE-SHEET/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/rupak1005/SDE-SHEET/tree/master/2058-concatenation-of-array) |
 ## Hash Function
