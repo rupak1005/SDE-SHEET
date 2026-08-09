@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rupak1005/SDE-SHEET/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rupak1005/SDE-SHEET/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rupak1005/SDE-SHEET/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rupak1005/SDE-SHEET/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rupak1005/SDE-SHEET/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rupak1005/SDE-SHEET/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rupak1005/SDE-SHEET/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/rupak1005/SDE-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupak1005/SDE-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
