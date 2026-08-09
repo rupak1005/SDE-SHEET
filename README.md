@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/rupak1005/SDE-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupak1005/SDE-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rupak1005/SDE-SHEET/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rupak1005/SDE-SHEET/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rupak1005/SDE-SHEET/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
