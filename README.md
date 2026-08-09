@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rupak1005/SDE-SHEET/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/rupak1005/SDE-SHEET/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rupak1005/SDE-SHEET/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rupak1005/SDE-SHEET/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rupak1005/SDE-SHEET/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rupak1005/SDE-SHEET/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rupak1005/SDE-SHEET/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rupak1005/SDE-SHEET/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rupak1005/SDE-SHEET/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rupak1005/SDE-SHEET/tree/master/0100-same-tree) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/rupak1005/SDE-SHEET/tree/master/0079-word-search) |
 ## Memoization
 |  |
 | ------- |
