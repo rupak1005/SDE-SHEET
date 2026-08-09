@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/rupak1005/SDE-SHEET/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/rupak1005/SDE-SHEET/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupak1005/SDE-SHEET/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1603-running-sum-of-1d-array](https://github.com/rupak1005/SDE-SHEET/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/rupak1005/SDE-SHEET/tree/master/2058-concatenation-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rupak1005/SDE-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rupak1005/SDE-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/rupak1005/SDE-SHEET/tree/master/1603-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
