@@ -1,26 +1,20 @@
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
+        int i = 0, j = 0;
 
-        int i = 0;
-        int j = 0;
-
-        int n = version1.size();
-        int m = version2.size();
-
-        while (i < n || j < m) {
-
+        while (i < version1.size() || j < version2.size()) {
             long long num1 = 0;
             long long num2 = 0;
 
-            // Read revision from version1
-            while (i < n && version1[i] != '.') {
+            // Read one revision from version1
+            while (i < version1.size() && version1[i] != '.') {
                 num1 = num1 * 10 + (version1[i] - '0');
                 i++;
             }
 
-            // Read revision from version2
-            while (j < m && version2[j] != '.') {
+            // Read one revision from version2
+            while (j < version2.size() && version2[j] != '.') {
                 num2 = num2 * 10 + (version2[j] - '0');
                 j++;
             }
@@ -32,10 +26,10 @@ public:
                 return 1;
 
             // Skip '.'
-            if (i < n)
+            if (i < version1.size())
                 i++;
 
-            if (j < m)
+            if (j < version2.size())
                 j++;
         }
 
