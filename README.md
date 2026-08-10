@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupak1005/SDE-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupak1005/SDE-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rupak1005/SDE-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/rupak1005/SDE-SHEET/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rupak1005/SDE-SHEET/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
@@ -571,4 +574,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
