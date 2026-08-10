@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupak1005/SDE-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupak1005/SDE-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/rupak1005/SDE-SHEET/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
