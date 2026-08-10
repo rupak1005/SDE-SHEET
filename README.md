@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupak1005/SDE-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/rupak1005/SDE-SHEET/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/rupak1005/SDE-SHEET/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/rupak1005/SDE-SHEET/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
