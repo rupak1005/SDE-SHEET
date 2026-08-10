@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rupak1005/SDE-SHEET/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rupak1005/SDE-SHEET/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/rupak1005/SDE-SHEET/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupak1005/SDE-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rupak1005/SDE-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/rupak1005/SDE-SHEET/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rupak1005/SDE-SHEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupak1005/SDE-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupak1005/SDE-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rupak1005/SDE-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/rupak1005/SDE-SHEET/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rupak1005/SDE-SHEET/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/rupak1005/SDE-SHEET/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupak1005/SDE-SHEET/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rupak1005/SDE-SHEET/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 ## Graph
 |  |
 | ------- |
@@ -531,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -539,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rupak1005/SDE-SHEET/tree/master/0130-surrounded-regions) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
