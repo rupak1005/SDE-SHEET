@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupak1005/SDE-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rupak1005/SDE-SHEET/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/rupak1005/SDE-SHEET/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
