@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rupak1005/SDE-SHEET/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/rupak1005/SDE-SHEET/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupak1005/SDE-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rupak1005/SDE-SHEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupak1005/SDE-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0219-contains-duplicate-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rupak1005/SDE-SHEET/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rupak1005/SDE-SHEET/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rupak1005/SDE-SHEET/tree/master/0412-fizz-buzz) |
 | [3227-find-missing-and-repeated-values](https://github.com/rupak1005/SDE-SHEET/tree/master/3227-find-missing-and-repeated-values) |
@@ -551,4 +554,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
