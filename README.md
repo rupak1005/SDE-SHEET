@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rupak1005/SDE-SHEET/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/rupak1005/SDE-SHEET/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupak1005/SDE-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupak1005/SDE-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rupak1005/SDE-SHEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/rupak1005/SDE-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupak1005/SDE-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rupak1005/SDE-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/rupak1005/SDE-SHEET/tree/master/0493-reverse-pairs) |
