@@ -596,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rupak1005/SDE-SHEET/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
