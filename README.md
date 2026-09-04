@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/rupak1005/SDE-SHEET/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/rupak1005/SDE-SHEET/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rupak1005/SDE-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rupak1005/SDE-SHEET/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/rupak1005/SDE-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupak1005/SDE-SHEET/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rupak1005/SDE-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/rupak1005/SDE-SHEET/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/rupak1005/SDE-SHEET/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rupak1005/SDE-SHEET/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rupak1005/SDE-SHEET/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rupak1005/SDE-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rupak1005/SDE-SHEET/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rupak1005/SDE-SHEET/tree/master/0347-top-k-frequent-elements) |
